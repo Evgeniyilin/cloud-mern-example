@@ -4,3 +4,5 @@ evgeniyilin
 
 npm i express mongoose config
 npm i -D nodemon
+npm i bcryptjs
+npm i express-validator
