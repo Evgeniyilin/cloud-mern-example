@@ -1,3 +1,6 @@
 mongoDB
 evgeniyilin
 987852***
+
+npm i express mongoose config
+npm i -D nodemon
