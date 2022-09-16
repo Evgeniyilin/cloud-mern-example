@@ -2,8 +2,15 @@ mongoDB
 evgeniyilin
 987852***
 
+[SERVER package]
 npm i express mongoose config
 npm i -D nodemon
 npm i bcryptjs
 npm i express-validator
 npm i jsonwebtoken
+
+[CLIENT package]
+npm i redux react-redux redux-thunk
+npm i redux-devtools-extension
+
+end6video
